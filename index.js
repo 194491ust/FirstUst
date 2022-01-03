@@ -1,3 +1,3 @@
 var msg="hai";
 console.log(msg);
-console.log("happ 2022");
+console.log("happy new year 2022");
